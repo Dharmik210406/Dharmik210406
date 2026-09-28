@@ -11,8 +11,8 @@
   <br/>
 
   <!-- ================= ANIMATED TYPING HUD DISPLAY ================= -->
-  <a href="https://github.com/TheAshDash">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=950&height=55&lines=%5B%E2%9A%A1%5D+JARVIS+%2F+ULTRON+CORE+PROTOCOL+ONLINE...;%5B%F0%9F%94%A7%5D+EMBEDDED+C+%7C+FREERTOS+%7C+CAN+BUS+%7C+BARE-METAL+FIRMWARE;%5B%F0%9F%AA%A3%5D+ALTIUM+PCB+DESIGN+%7C+BLDC%2FPMSM+CONTROL+%7C+AVIONICS;%5B%F0%9F%A4%96%5D+AUTONOMOUS+ROVERS+%7C+HEAVY-LIFT+UAVS+%7C+LIDAR-CAMERA+FUSION;%5B%F0%9F%90%8D%5D+REAL-TIME+DEPTH+ESTIMATION+%7C+SCNN+%7C+YOLO+%7C+VERILOG;%5B%F0%9F%9A%80%5D+ALL+SYSTEMS+OPTIMAL.+READY+FOR+DEPLOYMENT." alt="HUD Terminal Output" />
+  <a href="https://github.com/Dharmik210406">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=950&height=55&lines=%5B%E2%9A%A1%5D+JARVIS+%2F+ULTRON+CORE+PROTOCOL+ONLINE...;%5B%F0%9F%94%A7%5D+EMBEDDED+C+%7C+FREERTOS+%7C+BARE-METAL+FIRMWARE;%5B%F0%9F%AA%A3%5D+ALTIUM+PCB+DESIGN+%7C+BLDC%2FPMSM+CONTROL+%7C+AVIONICS;%5B%F0%9F%A4%96%5D+AUTONOMOUS+ROVERS+%7C+HEAVY-LIFT+UAVS+%7C+LIDAR-CAMERA+FUSION;%5B%F0%9F%90%8D%5D+REAL-TIME+DEPTH+ESTIMATION+%7C+SCNN+%7C+YOLO+%7C+VERILOG;%5B%F0%9F%9A%80%5D+ALL+SYSTEMS+OPTIMAL.+READY+FOR+DEPLOYMENT." alt="HUD Terminal Output" />
   </a>
 
   <br/><br/>
